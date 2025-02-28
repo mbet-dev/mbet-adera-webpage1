@@ -1,4 +1,3 @@
-# mbetadera-landingpage-webpage1
+# mbetadera-landing page-webpage for the upcoming WebApp
 # mbet-adera-webpage1
-# mbet-adera-webpage1
-# mbet-adera-webpage1
+
