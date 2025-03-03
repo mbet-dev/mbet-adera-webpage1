@@ -71,19 +71,21 @@ export function HeroSection() {
               </Button>
             </div>
           </motion.div>
-          <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 0.5, delay: 0.2 }}
-            className="relative h-[400px] rounded-xl overflow-hidden shadow-xl bg-card"
-          >
-            <div className="absolute inset-0 bg-gradient-to-br from-primary/10 via-transparent to-transparent" />
-            <img
-              src="/placeholder.svg?height=400&width=600"
-              alt="Delivery tracking"
-              className="w-full h-full object-cover"
-            />
-          </motion.div>
+
+          {/*<motion.div*/}
+          {/*  initial={{ opacity: 0, scale: 0.9 }}*/}
+          {/*  animate={{ opacity: 1, scale: 1 }}*/}
+          {/*  transition={{ duration: 0.5, delay: 0.2 }}*/}
+          {/*  className="relative h-[400px] rounded-xl overflow-hidden shadow-xl bg-card"*/}
+          {/*>*/}
+          {/*  <div className="absolute inset-0 bg-gradient-to-br from-primary/10 via-transparent to-transparent" />*/}
+          {/*  <img*/}
+          {/*    src="/placeholder.svg?height=400&width=600"*/}
+          {/*    alt="Delivery tracking"*/}
+          {/*    className="w-full h-full object-cover"*/}
+          {/*  />*/}
+          {/*</motion.div>*/}
+
         </div>
       </div>
     </section>
